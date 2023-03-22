@@ -1,0 +1,66 @@
+﻿<Properties StartupConfiguration="{A723F25F-44EC-44C5-8037-9E23F3613DB0}|Default">
+  <MonoDevelop.Ide.ItemProperties.ParserDocument.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParserDocument.Test/BLTests/WordsCounterTests.cs">
+    <Files>
+      <File FileName="ParserDocument.Test/DomainTests/DocumentTests.cs" Line="1" Column="1" />
+      <File FileName="DocumentParser.BL/ConcreteProducts/Sorter.cs" Line="50" Column="31" />
+      <File FileName="ParserDocument.Test/BLTests/SorterTests.cs" Line="1" Column="1" />
+      <File FileName="DocumentParser.Host/Program.cs" />
+      <File FileName="DocumentParser.Host/Pages/Index.razor" />
+      <File FileName="DocumentParser.Domain/ConcreteProducts/Document.cs" Line="11" Column="30" />
+      <File FileName="DocumentParser.Host/wwwroot/css/site.css" />
+      <File FileName="DocumentParser.Host/Shared/MainLayout.razor" />
+      <File FileName="DocumentParser.Host/Shared/NavMenu.razor" />
+      <File FileName="DocumentParser.Host/Shared/SurveyPrompt.razor" />
+      <File FileName="DocumentParser.Host/Pages/_Layout.cshtml" />
+      <File FileName="DocumentParser.Host/_Imports.razor" />
+      <File FileName="DocumentParser.Host/App.razor" />
+      <File FileName="ParserDocument.Test/BLTests/WordsCounterTests.cs" Line="19" Column="10" />
+      <File FileName="DocumentParser.Domain/AbstractProducts/IDocument.cs" Line="7" Column="19" />
+      <File FileName="DocumentParser.BL/ConcreteProducts/DocumentParser.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DocumentParser" expanded="True">
+            <Node name="DocumentParser.BL" expanded="True">
+              <Node name="ConcreteProducts" expanded="True" />
+            </Node>
+            <Node name="DocumentParser.Domain" expanded="True">
+              <Node name="AbstractProducts" expanded="True" />
+              <Node name="ConcreteProducts" expanded="True" />
+            </Node>
+            <Node name="ParserDocument.Test" expanded="True">
+              <Node name="BLTests" expanded="True">
+                <Node name="WordsCounterTests.cs" selected="True" />
+              </Node>
+              <Node name="DomainTests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DocumentParser" expanded="True" selected="True">
+            <Node name="ParserDocument.Test" expanded="True">
+              <Node name="ParserDocument.Test.BLTests" expanded="True">
+                <Node name="SorterTests" expanded="True" />
+                <Node name="WordsCounterTests" expanded="True" />
+              </Node>
+              <Node name="ParserDocument.Test.DomainTests" expanded="True">
+                <Node name="DocumentTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DocumentParser.Host PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

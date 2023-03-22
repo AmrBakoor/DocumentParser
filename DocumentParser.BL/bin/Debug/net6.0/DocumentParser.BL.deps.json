@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DocumentParser.BL/1.0.0": {
+        "dependencies": {
+          "DocumentParser.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DocumentParser.BL.dll": {}
+        }
+      },
+      "DocumentParser.Domain/1.0.0": {
+        "runtime": {
+          "DocumentParser.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DocumentParser.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DocumentParser.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

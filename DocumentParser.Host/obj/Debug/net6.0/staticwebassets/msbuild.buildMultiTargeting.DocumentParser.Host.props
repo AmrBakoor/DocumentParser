@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/DocumentParser.Host.props" />
+</Project>

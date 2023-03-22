@@ -1,0 +1,15 @@
+/Users/amrbakoor/Desktop/DocumentParser/DocumentParser.BL/bin/Debug/net6.0/DocumentParser.BL.deps.json
+/Users/amrbakoor/Desktop/DocumentParser/DocumentParser.BL/bin/Debug/net6.0/DocumentParser.BL.dll
+/Users/amrbakoor/Desktop/DocumentParser/DocumentParser.BL/bin/Debug/net6.0/DocumentParser.BL.pdb
+/Users/amrbakoor/Desktop/DocumentParser/DocumentParser.BL/bin/Debug/net6.0/DocumentParser.Domain.dll
+/Users/amrbakoor/Desktop/DocumentParser/DocumentParser.BL/bin/Debug/net6.0/DocumentParser.Domain.pdb
+/Users/amrbakoor/Desktop/DocumentParser/DocumentParser.BL/obj/Debug/net6.0/DocumentParser.BL.csproj.AssemblyReference.cache
+/Users/amrbakoor/Desktop/DocumentParser/DocumentParser.BL/obj/Debug/net6.0/DocumentParser.BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amrbakoor/Desktop/DocumentParser/DocumentParser.BL/obj/Debug/net6.0/DocumentParser.BL.AssemblyInfoInputs.cache
+/Users/amrbakoor/Desktop/DocumentParser/DocumentParser.BL/obj/Debug/net6.0/DocumentParser.BL.AssemblyInfo.cs
+/Users/amrbakoor/Desktop/DocumentParser/DocumentParser.BL/obj/Debug/net6.0/DocumentParser.BL.csproj.CoreCompileInputs.cache
+/Users/amrbakoor/Desktop/DocumentParser/DocumentParser.BL/obj/Debug/net6.0/DocumentParser.BL.csproj.CopyComplete
+/Users/amrbakoor/Desktop/DocumentParser/DocumentParser.BL/obj/Debug/net6.0/DocumentParser.BL.dll
+/Users/amrbakoor/Desktop/DocumentParser/DocumentParser.BL/obj/Debug/net6.0/refint/DocumentParser.BL.dll
+/Users/amrbakoor/Desktop/DocumentParser/DocumentParser.BL/obj/Debug/net6.0/DocumentParser.BL.pdb
+/Users/amrbakoor/Desktop/DocumentParser/DocumentParser.BL/obj/Debug/net6.0/ref/DocumentParser.BL.dll

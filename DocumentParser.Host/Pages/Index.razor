@@ -1,0 +1,60 @@
+﻿@page "/"
+@using DocumentParser.BL.AbstractProducts
+@using DocumentParser.Domain.ConcreteProducts
+@using Microsoft.AspNetCore.Mvc.ViewFeatures
+@inject IWordsCounter _iWordCounter
+@inject ISorter _iSorter;
+
+
+<PageTitle>Words Counter</PageTitle>
+
+
+
+<div>
+    <label for="textarea">Document Text:</label>
+    <textarea id="textarea" @bind="text"></textarea>
+   
+    <button @onclick="CountWords">Count Words</button>
+</div>
+
+@if (output != null && output.Count > 0)
+{
+ 
+    <h2>Words Count: @wordsCount</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Word</th>
+                <th>Count</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var pair in output)
+            {
+                <tr>
+                    <td>@pair.Key</td>
+                    <td>@pair.Value</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+
+    private string text;
+    private Dictionary<string, int> output;
+    private int wordsCount;
+  
+    private void CountWords()
+    {
+     
+        var document = new Document(text);
+        wordsCount = document.GetNonNumericWordsCount();
+        var wordsOccureneces = _iWordCounter.Count(document);
+
+        output = _iSorter.Sort(wordsOccureneces);
+        
+    }
+
+}
